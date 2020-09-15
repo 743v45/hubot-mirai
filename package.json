@@ -1,0 +1,22 @@
+{
+  "name": "hubot-mirai",
+  "version": "0.0.0",
+  "description": "A hubot adapter for mirai.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/743v45/hubot-mirai.git"
+  },
+  "keywords": [
+    "mirai"
+  ],
+  "author": "taevas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/743v45/hubot-mirai/issues"
+  },
+  "homepage": "https://github.com/743v45/hubot-mirai#readme"
+}
